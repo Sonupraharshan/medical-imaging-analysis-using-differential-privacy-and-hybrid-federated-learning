@@ -1,0 +1,8 @@
+# Ignore Python venv
+venv/
+__pycache__/
+*.pyc
+
+# Ignore artifacts
+artifacts/*.csv
+artifacts/*.png
